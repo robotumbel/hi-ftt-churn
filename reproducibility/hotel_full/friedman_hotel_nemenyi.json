@@ -1,0 +1,218 @@
+{
+  "Transformer vs FTTransformer": {
+    "p_value": 0.125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.0020640577022786434
+  },
+  "Transformer vs LSTM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.002453381464363913
+  },
+  "Transformer vs GRU": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.00034727781759529285
+  },
+  "Transformer vs MLP": {
+    "p_value": 0.3125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.002828893859396664
+  },
+  "Transformer vs CNN": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0009677671545211597
+  },
+  "Transformer vs XGBoost": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.007026143213122227
+  },
+  "Transformer vs LightGBM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.0060805796666345115
+  },
+  "Transformer vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.059561994273533835
+  },
+  "FTTransformer vs LSTM": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.00038932376208526963
+  },
+  "FTTransformer vs GRU": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0017167798846833503
+  },
+  "FTTransformer vs MLP": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.0007648361571180207
+  },
+  "FTTransformer vs CNN": {
+    "p_value": 0.3125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.003031824856799803
+  },
+  "FTTransformer vs XGBoost": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.004962085510843583
+  },
+  "FTTransformer vs LightGBM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.004016521964355868
+  },
+  "FTTransformer vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.06162605197581248
+  },
+  "LSTM vs GRU": {
+    "p_value": 0.3125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0021061036467686202
+  },
+  "LSTM vs MLP": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.000375512395032751
+  },
+  "LSTM vs CNN": {
+    "p_value": 0.125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0034211486188850727
+  },
+  "LSTM vs XGBoost": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.004572761748758314
+  },
+  "LSTM vs LightGBM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.0036271982022705986
+  },
+  "LSTM vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.06201537573789775
+  },
+  "GRU vs MLP": {
+    "p_value": 0.3125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.0024816160418013712
+  },
+  "GRU vs CNN": {
+    "p_value": 0.625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0013150449721164525
+  },
+  "GRU vs XGBoost": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.006678865395526934
+  },
+  "GRU vs LightGBM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.005733301849039219
+  },
+  "GRU vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.05990927209112913
+  },
+  "MLP vs CNN": {
+    "p_value": 0.1875,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0037966610139178237
+  },
+  "MLP vs XGBoost": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.004197249353725563
+  },
+  "MLP vs LightGBM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.0032516858072378476
+  },
+  "MLP vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0623908881329305
+  },
+  "CNN vs XGBoost": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.007993910367643386
+  },
+  "CNN vs LightGBM": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": -0.007048346821155671
+  },
+  "CNN vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.05859422711901267
+  },
+  "XGBoost vs LightGBM": {
+    "p_value": 0.125,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.0009455635464877155
+  },
+  "XGBoost vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.06658813748665607
+  },
+  "LightGBM vs LogisticRegression": {
+    "p_value": 0.0625,
+    "p_corrected": 1.0,
+    "significant": false,
+    "mean_diff": 0.06564257394016834
+  }
+}

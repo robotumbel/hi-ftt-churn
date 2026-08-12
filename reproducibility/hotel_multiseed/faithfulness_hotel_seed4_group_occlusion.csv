@@ -1,0 +1,6 @@
+Group,AUC_occluded,AUC_drop,n_features
+Commercial,0.8086,0.1051,8
+Property_Room,0.8305,0.0832,8
+Temporal,0.862,0.0517,12
+Guest_History,0.8787,0.035,7
+Stay_Pattern,0.9035,0.0102,10

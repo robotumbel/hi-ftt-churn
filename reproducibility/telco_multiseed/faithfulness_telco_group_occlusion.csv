@@ -1,0 +1,6 @@
+Group,AUC_occluded,AUC_drop,n_features
+Tenure_Contract,0.8591,0.0439,5
+Engagement,0.8673,0.0356,2
+Charges,0.8675,0.0354,9
+Demographics,0.8775,0.0254,6
+Services,0.9014,0.0016,14
