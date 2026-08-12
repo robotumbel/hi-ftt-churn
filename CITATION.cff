@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or the released artifacts, please cite the paper."
+title: "HI-FTT: A Hospitality-Informed Feature-Tokenizer Transformer for Interpretable Hotel Booking-Cancellation Churn Prediction"
+abstract: >-
+  HI-FTT extends the FT-Transformer with two hospitality domain modules integrated
+  into the forward pass: Booking-Phase Aware Conditioning (BPAC) and Semantic Group
+  Attention (SGA), the latter producing a native CRM risk dashboard. Across five
+  seeds HI-FTT significantly improves the vanilla FT-Transformer backbone on ROC-AUC
+  and PR-AUC on the Hotel Booking Demand dataset (DeLong and paired-bootstrap tests),
+  while gradient-boosted trees remain the strongest tabular baselines and the domain
+  gain is shown to be hospitality-specific.
+authors:
+  - name: "Anonymised for peer review"
+# On acceptance, replace the anonymised author with the full author list, e.g.:
+# authors:
+#   - family-names: <Surname>
+#     given-names: <Given names>
+#     orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-08-13"
+license: MIT
+keywords:
+  - churn prediction
+  - customer relationship management
+  - feature-tokenizer transformer
+  - tabular deep learning
+  - interpretability
+  - hotel booking cancellation

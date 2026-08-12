@@ -1,0 +1,4 @@
+Group,AUC_occluded,AUC_drop,n_features
+Demographics,0.734,0.1038,3
+Tenure_Relationship,0.7367,0.1012,5
+Financial,0.829,0.0088,6

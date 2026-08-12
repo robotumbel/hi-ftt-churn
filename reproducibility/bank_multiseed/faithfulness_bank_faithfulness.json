@@ -1,0 +1,48 @@
+{
+  "base_auc": 0.8511,
+  "group_occlusion": [
+    {
+      "Group": "Demographics",
+      "AUC_occluded": 0.7457,
+      "AUC_drop": 0.1054,
+      "n_features": 3
+    },
+    {
+      "Group": "Tenure_Relationship",
+      "AUC_occluded": 0.7465,
+      "AUC_drop": 0.1046,
+      "n_features": 5
+    },
+    {
+      "Group": "Financial",
+      "AUC_occluded": 0.8186,
+      "AUC_drop": 0.0326,
+      "n_features": 6
+    }
+  ],
+  "spearman_sga_vs_occlusion": [
+    1.0,
+    0.0
+  ],
+  "permutation_importance": [
+    0.01189662911507423,
+    0.0005118183510143037,
+    0.004109326589373885,
+    -0.00031475460089116505,
+    0.13302295792688928,
+    0.011022979822861535,
+    0.09307512508074134,
+    0.0024934038383638947,
+    -0.00122562704590492,
+    0.00961616360670452,
+    0.0012070154695044133,
+    0.03561160924447946,
+    0.018154497980096496,
+    0.012386551493852727
+  ],
+  "attention_vs_permutation": {
+    "spearman_rho": 0.24835164835164836,
+    "p_value": 0.3919195389384575,
+    "n_features": 14
+  }
+}
